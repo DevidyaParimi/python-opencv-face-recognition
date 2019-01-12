@@ -17,3 +17,11 @@
 ### Get all the dependencies ###
 
 ```pip3 install -r requirements.txt```
+
+### How to run this project in locally? ###
+
+1. ```git clone https://github.com/saiyerniakhil/python-opencv-face-recognition```
+2. Move to the cloned repository (```cd python-opencv-face-recognition```)
+3. ```pip3 install -r requirements.txt``` (```pip freeeze``` is an option)
+4.  first run ```creator.py``` then ```trainer.py``` and then ```detector.py``` ( create a dataset, then train our model and then test it. )
+
