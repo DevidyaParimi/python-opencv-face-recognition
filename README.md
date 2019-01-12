@@ -13,3 +13,7 @@
 - pillow : 4.2.1
 
 - numpy : 1.15.4
+
+### Get all the dependencies ###
+
+```pip3 install -r requirements.txt```
