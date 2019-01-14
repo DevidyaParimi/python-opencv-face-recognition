@@ -18,7 +18,7 @@
 
 ```pip3 install -r requirements.txt```
 
-### How to run this project in locally? ###
+### How to run this project in your local computer? ###
 
 1. ```git clone https://github.com/saiyerniakhil/python-opencv-face-recognition```
 2. Move to the cloned repository (```cd python-opencv-face-recognition```)
